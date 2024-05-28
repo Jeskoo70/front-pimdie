@@ -1,5 +1,5 @@
 // export const BASE_URL = 'http://localhost:3001/api'
-export const BASE_URL = 'https://jeskooisnotmakaka.nomorepartiesco.ru'
+export const BASE_URL = 'https://jeskooismakaka.nomorepartiesco.ru'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
